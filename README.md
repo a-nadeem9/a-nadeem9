@@ -1,4 +1,8 @@
-[LinkedIn](https://www.linkedin.com/in/adinanadeem/) | [Medium](https://medium.com/@adinanadeem) | [Email](mailto:adinanadeem@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/adinanadeem/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" height="30"></a>
+  <a href="https://medium.com/@adinanadeem"><img src="./assets/badges/medium.svg" alt="Medium" height="30"></a>
+  <a href="mailto:adinanadeem@gmail.com"><img src="./assets/badges/email.svg" alt="Email" height="30"></a>
+</p>
 
 > Bioinformatics · Machine Learning · Biomedical Data
 
