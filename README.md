@@ -1,6 +1,16 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinanadeem/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@adinanadeem)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adinanadeem@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/adinanadeem/" aria-label="LinkedIn">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="24" height="24">
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@adinanadeem" aria-label="Medium">
+    <img src="https://api.iconify.design/simple-icons:medium.svg?color=%23000000" alt="Medium" width="24" height="24">
+  </a>
+  &nbsp;
+  <a href="mailto:adinanadeem@gmail.com" aria-label="Email">
+    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23D14836" alt="Email" width="24" height="24">
+  </a>
+</p>
 
 > Bioinformatics · Machine Learning · Biomedical Data
 
