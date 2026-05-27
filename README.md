@@ -2,7 +2,7 @@
 [![Medium Badge](https://img.shields.io/badge/-adinanadeem-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@adinanadeem)](https://medium.com/@adinanadeem)
 [![Gmail Badge](https://img.shields.io/badge/-adinanadeem-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adinanadeem@gmail.com)](mailto:adinanadeem@gmail.com)
 
-> Learning with the challenges | Growing with the data
+> Bioinformatics · Machine Learning · Biomedical Data
 
 - 👋 Hi, I’m Adina
 - 🎓 MSc Bioinformatics Student @ Freie Universität Berlin 
@@ -12,7 +12,7 @@
   • adinanadeem [at] gmail [dot] com  
   • adina [dot] nadeem [at] fu-berlin [dot] de
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&hide=jupyter%20notebook,makefile&layout=compact&token=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)](https://github.com/a-nadeem9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&hide=jupyter%20notebook,makefile&layout=compact)](https://github.com/a-nadeem9/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=a-nadeem9.a-nadeem9)
 
