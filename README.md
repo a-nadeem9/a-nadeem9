@@ -1,6 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-adinanadeem-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adinanadeem/)](https://www.linkedin.com/in/adinanadeem/)
-[![Medium Badge](https://img.shields.io/badge/-adinanadeem-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@adinanadeem)](https://medium.com/@adinanadeem)
-[![Gmail Badge](https://img.shields.io/badge/-adinanadeem-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adinanadeem@gmail.com)](mailto:adinanadeem@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adinanadeem-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinanadeem/)
+[![Medium](https://img.shields.io/badge/Medium-adinanadeem-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adinanadeem)
+[![Email](https://img.shields.io/badge/Email-adinanadeem%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adinanadeem@gmail.com)
 
 > Bioinformatics · Machine Learning · Biomedical Data
 
@@ -12,7 +12,7 @@
   • adinanadeem [at] gmail [dot] com  
   • adina [dot] nadeem [at] fu-berlin [dot] de
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&hide=jupyter%20notebook,makefile&layout=compact)](https://github.com/a-nadeem9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&layout=compact&langs_count=6&hide=makefile)](https://github.com/a-nadeem9/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=a-nadeem9.a-nadeem9)
 
